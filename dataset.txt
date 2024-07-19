@@ -1,2 +1,0 @@
-We sampled the MIT places dataset for training over 10 classes.
-Url to the dataset is https://buffalo.box.com/s/w6wuvuyfur645a3aqojuialn9szs72vr
