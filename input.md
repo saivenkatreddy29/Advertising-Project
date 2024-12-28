@@ -1,4 +1,4 @@
-<img src="./yhlak2fe.png"
+<img src="dlproject_images.md/yhlak2fe.png"
 style="width:2.90625in;height:0.625in" /><img src="./nrlwf5kx.png"
 style="width:0.39583in;height:0.23958in" /><img src="./wdxscntt.png"
 style="width:0.57292in;height:0.23958in" /><img src="./ltshkms0.png" style="width:6.5in" /><img src="./5bpeu3pe.png" style="width:6.5in" />
@@ -6,7 +6,7 @@ style="width:0.57292in;height:0.23958in" /><img src="./ltshkms0.png" style="widt
 > **Piks** **AI** **:** **Personalized** **Advertising** **using**
 > **Image** **Classification** Final Phase
 >
-> Parag Shah, Sai Venkat Reddy, Prajakta Jhade
+> Sai Venkat Reddy,Parag Shah, Prajakta Jhade
 
 **<u>PROJECT OVERVIEW</u>**
 
