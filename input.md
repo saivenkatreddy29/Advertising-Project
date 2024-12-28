@@ -1,7 +1,7 @@
 <img src="dlproject_images.md/yhlak2fe.png"
-style="width:2.90625in;height:0.625in" /><img src="./nrlwf5kx.png"
-style="width:0.39583in;height:0.23958in" /><img src="./wdxscntt.png"
-style="width:0.57292in;height:0.23958in" /><img src="./ltshkms0.png" style="width:6.5in" /><img src="./5bpeu3pe.png" style="width:6.5in" />
+style="width:2.90625in;height:0.625in" /><img src="dlproject_images.md/nrlwf5kx.png"
+style="width:0.39583in;height:0.23958in" /><img src="dlproject_images.md/wdxscntt.png"
+style="width:0.57292in;height:0.23958in" /><img src="dlproject_images.md/ltshkms0.png" style="width:6.5in" /><img src="dlproject_images.md/5bpeu3pe.png" style="width:6.5in" />
 
 > **Piks** **AI** **:** **Personalized** **Advertising** **using**
 > **Image** **Classification** Final Phase
@@ -49,9 +49,9 @@ consists of 5000 high resolution images.
 Dataset link : MIT places 365 from
 [<u>http://places.csail.mit.edu/</u>](http://places.csail.mit.edu/)
 
-<img src="./hfqv5jji.png"
-style="width:2.90625in;height:0.625in" /><img src="./k4otopbd.png"
-style="width:0.39583in;height:0.23958in" /><img src="./ocapxiab.png"
+<img src="dlproject_images.md/hfqv5jji.png"
+style="width:2.90625in;height:0.625in" /><img src="dlproject_images.md/k4otopbd.png"
+style="width:0.39583in;height:0.23958in" /><img src="dlproject_images.md/ocapxiab.png"
 style="width:0.57292in;height:0.23958in" />
 
 **<u>ARCHITECTURES:</u>**
@@ -108,12 +108,12 @@ output. Layer 2: Max Pooling with kernal_size =3, stride=2, padding=1.
 Layer 3: Residual block with in_channel = 64, out_channel = 64,
 number_of_block=2, stride=1.
 
-<img src="./yk4vvfdx.png"
-style="width:0.39583in;height:0.23958in" /><img src="./yig3vbtg.png"
-style="width:0.57292in;height:0.23958in" /><img src="./y2v2hmnc.png"
+<img src="dlproject_images.md/yk4vvfdx.png"
+style="width:0.39583in;height:0.23958in" /><img src="dlproject_images.md/yig3vbtg.png"
+style="width:0.57292in;height:0.23958in" /><img src="dlproject_images.md/y2v2hmnc.png"
 style="width:7.10417in;height:0.32292in" />
 
-<img src="./zha5v0at.png"
+<img src="dlproject_images.md/zha5v0at.png"
 style="width:2.90625in;height:0.625in" />Layer 4: Residual block with
 in_channel = 64, out_channel = 128, number_of_block=2, stride=2.
 
@@ -148,35 +148,35 @@ model learn better and add robustness to the model.
 **Training** **Accuracy** **:** **88.15%** **Validation** **Accuracy:**
 **83.08%**
 
-<img src="./esnvk224.png"
+<img src="dlproject_images.md/esnvk224.png"
 style="width:6.88542in;height:1.19792in" /><u>Testing Accuracy:</u>
 
-<img src="./53wmtt1t.png"
-style="width:2.90625in;height:0.625in" /><img src="./wkhkspuu.png"
-style="width:0.39583in;height:0.23958in" /><img src="./asgcp0yg.png"
-style="width:0.57292in;height:0.23958in" /><img src="./lzitlmjs.png"
+<img src="dlproject_images.md/53wmtt1t.png"
+style="width:2.90625in;height:0.625in" /><img src="dlproject_images.md/wkhkspuu.png"
+style="width:0.39583in;height:0.23958in" /><img src="dlproject_images.md/asgcp0yg.png"
+style="width:0.57292in;height:0.23958in" /><img src="dlproject_images.md/lzitlmjs.png"
 style="width:4.13542in;height:3.57292in" />
 
 <u>Plot for Training and Validation Loss:</u>
 
-<img src="./54c5azci.png" style="width:4.30208in;height:3.75in" /><u>Plot
+<img src="dlproject_images.md/54c5azci.png" style="width:4.30208in;height:3.75in" /><u>Plot
 for Training and Validation Accuracy:</u>
 
-<img src="./2wz1zqm4.png"
-style="width:2.90625in;height:0.625in" /><img src="./btjo3knd.png"
-style="width:0.39583in;height:0.23958in" /><img src="./5dj3qc31.png"
-style="width:0.57292in;height:0.23958in" /><img src="./we54m50f.png"
+<img src="dlproject_images.md/2wz1zqm4.png"
+style="width:2.90625in;height:0.625in" /><img src="dlproject_images.md/btjo3knd.png"
+style="width:0.39583in;height:0.23958in" /><img src="dlproject_images.md/5dj3qc31.png"
+style="width:0.57292in;height:0.23958in" /><img src="dlproject_images.md/we54m50f.png"
 style="width:5.22917in;height:5.60417in" />
 
 <u>Correlation matrix:</u>
 
-<img src="./cd2d4xsi.png"
+<img src="dlproject_images.md/cd2d4xsi.png"
 style="width:2.19792in;height:1.4375in" /><u>Precision, Recall, F1 and
 Accuracy:</u>
 
-<img src="./sn0zgxnp.png"
-style="width:2.90625in;height:0.625in" /><img src="./yam4qkzx.png"
-style="width:0.39583in;height:0.23958in" /><img src="./lobfs3wm.png"
+<img src="dlproject_images.md/sn0zgxnp.png"
+style="width:2.90625in;height:0.625in" /><img src="dlproject_images.md/yam4qkzx.png"
+style="width:0.39583in;height:0.23958in" /><img src="dlproject_images.md/lobfs3wm.png"
 style="width:0.57292in;height:0.23958in" />
 
 **<u>2. VGG</u>**
@@ -240,12 +240,12 @@ and fully connected layers.
 Dropout : Dropout layer is used after every set(2 layers) to drop the
 few neurons to protect from overfitting.
 
-<img src="./ay0qzkmr.png"
-style="width:2.90625in;height:0.625in" /><img src="./f0u5p0le.png"
-style="width:0.39583in;height:0.23958in" /><img src="./msadvzjw.png"
-style="width:0.57292in;height:0.23958in" /><img src="./npmgconq.png"
-style="width:4.32292in;height:0.98958in" /><img src="./5fkscvni.png"
-style="width:3.67708in;height:0.52083in" /><img src="./nwhyahw4.png"
+<img src="dlproject_images.md/ay0qzkmr.png"
+style="width:2.90625in;height:0.625in" /><img src="dlproject_images.md/f0u5p0le.png"
+style="width:0.39583in;height:0.23958in" /><img src="dlproject_images.md/msadvzjw.png"
+style="width:0.57292in;height:0.23958in" /><img src="dlproject_images.md/npmgconq.png"
+style="width:4.32292in;height:0.98958in" /><img src="dlproject_images.md/5fkscvni.png"
+style="width:3.67708in;height:0.52083in" /><img src="dlproject_images.md/nwhyahw4.png"
 style="width:2.52083in;height:1.34375in" />
 
 <u>EVALUATION METRICS:</u>
@@ -254,23 +254,23 @@ style="width:2.52083in;height:1.34375in" />
 
 **The** **loss** **is** **0.65** **and** **accuracy** **is** **80.94**
 
-<img src="./gvco2zjm.png"
+<img src="dlproject_images.md/gvco2zjm.png"
 style="width:3.54167in;height:2.98958in" />**Plots**
 
-<img src="./rmifdbf2.png"
-style="width:2.90625in;height:0.625in" /><img src="./r3gckw5y.png"
-style="width:3.84375in;height:3.40625in" /><img src="./zj0mni43.png"
-style="width:0.39583in;height:0.23958in" /><img src="./2zn4kvs4.png"
-style="width:0.57292in;height:0.23958in" /><img src="./qkz4j2e0.png"
+<img src="dlproject_images.md/rmifdbf2.png"
+style="width:2.90625in;height:0.625in" /><img src="dlproject_images.md/r3gckw5y.png"
+style="width:3.84375in;height:3.40625in" /><img src="dlproject_images.md/zj0mni43.png"
+style="width:0.39583in;height:0.23958in" /><img src="dlproject_images.md/2zn4kvs4.png"
+style="width:0.57292in;height:0.23958in" /><img src="dlproject_images.md/qkz4j2e0.png"
 style="width:3.97917in;height:4.34375in" />
 
-<img src="./nfs3dfcb.png"
+<img src="dlproject_images.md/nfs3dfcb.png"
 style="width:1.85417in;height:1.20833in" /><u>Precision, Recall, F1 and
 Accuracy:</u>
 
-<img src="./ktfcqojx.png"
-style="width:2.90625in;height:0.625in" /><img src="./pg4i04vg.png"
-style="width:0.39583in;height:0.23958in" /><img src="./mn5do1m4.png"
+<img src="dlproject_images.md/ktfcqojx.png"
+style="width:2.90625in;height:0.625in" /><img src="dlproject_images.md/pg4i04vg.png"
+style="width:0.39583in;height:0.23958in" /><img src="dlproject_images.md/mn5do1m4.png"
 style="width:0.57292in;height:0.23958in" />
 
 **<u>3. DenseNet</u>**
@@ -335,11 +335,11 @@ pooling layer and a fully connected layer for classification.
 DenseNets architecture helps in feature reuse, reduces no.of parameters
 and enhances gradient flow.
 
-<img src="./xfifyiuj.png"
-style="width:2.90625in;height:0.625in" /><img src="./hbcgc45j.png"
-style="width:0.39583in;height:0.23958in" /><img src="./lawjlyu1.png"
-style="width:0.57292in;height:0.23958in" /><img src="./kj3gihvw.png"
-style="width:4.76042in;height:0.63542in" /><img src="./flutzxh1.png"
+<img src="dlproject_images.md/xfifyiuj.png"
+style="width:2.90625in;height:0.625in" /><img src="dlproject_images.md/hbcgc45j.png"
+style="width:0.39583in;height:0.23958in" /><img src="dlproject_images.md/lawjlyu1.png"
+style="width:0.57292in;height:0.23958in" /><img src="dlproject_images.md/kj3gihvw.png"
+style="width:4.76042in;height:0.63542in" /><img src="dlproject_images.md/flutzxh1.png"
 style="width:6.02083in;height:0.94792in" />
 
 **<u>EVALUATION METRICS:</u>**
@@ -348,25 +348,25 @@ style="width:6.02083in;height:0.94792in" />
 
 <u>Testing Accuracy:</u>
 
-<img src="./dds0j50i.png"
+<img src="dlproject_images.md/dds0j50i.png"
 style="width:4.34375in;height:3.69792in" /><u>Plot for Training and
 Validation Loss:</u>
 
-<img src="./b3ndp0id.png"
-style="width:2.90625in;height:0.625in" /><img src="./jzwcajkk.png"
-style="width:0.39583in;height:0.23958in" /><img src="./3xynzuhf.png"
-style="width:0.57292in;height:0.23958in" /><img src="./vpodx4av.png"
+<img src="dlproject_images.md/b3ndp0id.png"
+style="width:2.90625in;height:0.625in" /><img src="dlproject_images.md/jzwcajkk.png"
+style="width:0.39583in;height:0.23958in" /><img src="dlproject_images.md/3xynzuhf.png"
+style="width:0.57292in;height:0.23958in" /><img src="dlproject_images.md/vpodx4av.png"
 style="width:4.34375in;height:3.70833in" />
 
 <u>Plot for Training and Validation Accuracy:</u>
 
-<img src="./mvwxgjjt.png"
+<img src="dlproject_images.md/mvwxgjjt.png"
 style="width:4.90625in;height:5.26042in" /><u>Correlation matrix:</u>
 
-<img src="./egxid4y4.png"
-style="width:2.90625in;height:0.625in" /><img src="./mqp0laiy.png"
-style="width:0.39583in;height:0.23958in" /><img src="./an0ovoe1.png"
-style="width:0.57292in;height:0.23958in" /><img src="./cvbwdxlw.png"
+<img src="dlproject_images.md/egxid4y4.png"
+style="width:2.90625in;height:0.625in" /><img src="dlproject_images.md/mqp0laiy.png"
+style="width:0.39583in;height:0.23958in" /><img src="dlproject_images.md/an0ovoe1.png"
+style="width:0.57292in;height:0.23958in" /><img src="dlproject_images.md/cvbwdxlw.png"
 style="width:2.13542in;height:1.57292in" />
 
 <u>Precision, Recall, F1 and Accuracy:</u>
@@ -417,11 +417,11 @@ size equal to the number of classes (= 11).
 Activation Function:- ReLU activation function is used for convolutional
 and fully connected layers.
 
-<img src="./hbeevaia.png"
-style="width:2.90625in;height:0.625in" /><img src="./w3duvpe2.png"
-style="width:0.39583in;height:0.23958in" /><img src="./wterh3de.png"
-style="width:0.57292in;height:0.23958in" /><img src="./k4fku2w1.png"
-style="width:7.10417in;height:0.29167in" /><img src="./xhc0kjn0.png"
+<img src="dlproject_images.md/hbeevaia.png"
+style="width:2.90625in;height:0.625in" /><img src="dlproject_images.md/w3duvpe2.png"
+style="width:0.39583in;height:0.23958in" /><img src="dlproject_images.md/wterh3de.png"
+style="width:0.57292in;height:0.23958in" /><img src="dlproject_images.md/k4fku2w1.png"
+style="width:7.10417in;height:0.29167in" /><img src="dlproject_images.md/xhc0kjn0.png"
 style="width:6.07292in;height:0.69792in" />
 
 Batch normalization: The batch normalization layer is added after all
@@ -429,30 +429,30 @@ the layers except 1st layer to control excess change in weights
 
 **<u>EVALUATION METRICS:</u>**
 
-<img src="./avm0pdmn.png" style="width:4.79167in;height:4.25in" />Test
+<img src="dlproject_images.md/avm0pdmn.png" style="width:4.79167in;height:4.25in" />Test
 loss is 0.779 and accuracy is 74.24
 
-<img src="./0mbmmfyk.png"
-style="width:2.90625in;height:0.625in" /><img src="./tsiqblyc.png"
-style="width:4.6875in;height:4.11458in" /><img src="./vadzma1a.png"
-style="width:0.39583in;height:0.23958in" /><img src="./gwguvacg.png"
+<img src="dlproject_images.md/0mbmmfyk.png"
+style="width:2.90625in;height:0.625in" /><img src="dlproject_images.md/tsiqblyc.png"
+style="width:4.6875in;height:4.11458in" /><img src="dlproject_images.md/vadzma1a.png"
+style="width:0.39583in;height:0.23958in" /><img src="dlproject_images.md/gwguvacg.png"
 style="width:0.57292in;height:0.23958in" />
 
 > This is Loss curve mistakenly named accuracy.
 
-<img src="./w1rhjttt.png"
-style="width:2.90625in;height:0.625in" /><img src="./rspaunef.png"
-style="width:5.47917in;height:5.97917in" /><img src="./rqkbejmk.png"
-style="width:0.39583in;height:0.23958in" /><img src="./hi30wlq3.png"
+<img src="dlproject_images.md/w1rhjttt.png"
+style="width:2.90625in;height:0.625in" /><img src="dlproject_images.md/rspaunef.png"
+style="width:5.47917in;height:5.97917in" /><img src="dlproject_images.md/rqkbejmk.png"
+style="width:0.39583in;height:0.23958in" /><img src="dlproject_images.md/hi30wlq3.png"
 style="width:0.57292in;height:0.23958in" />
 
-<img src="./yqjpohoq.png"
+<img src="dlproject_images.md/yqjpohoq.png"
 style="width:2.23958in;height:1.39583in" /><u>Precision, Recall, F1 and
 Accuracy:</u>
 
-<img src="./obbr1nh3.png"
-style="width:2.90625in;height:0.625in" /><img src="./0udzohzl.png"
-style="width:0.39583in;height:0.23958in" /><img src="./li052kvr.png"
+<img src="dlproject_images.md/obbr1nh3.png"
+style="width:2.90625in;height:0.625in" /><img src="dlproject_images.md/0udzohzl.png"
+style="width:0.39583in;height:0.23958in" /><img src="dlproject_images.md/li052kvr.png"
 style="width:0.57292in;height:0.23958in" />
 
 **<u>MODEL DEPLOYMENT:</u>**
@@ -504,11 +504,11 @@ about section, where users can get the insight about the dataset used,
 and the model structures which are used for predicting the labels for
 the input images. As shown in the <u>figure 5 and 6</u>.
 
-<img src="./hne25egi.png"
-style="width:2.90625in;height:0.625in" /><img src="./mx2gxap2.png"
-style="width:0.39583in;height:0.23958in" /><img src="./ot4sojhw.png"
-style="width:0.57292in;height:0.23958in" /><img src="./ghnwsob1.png"
-style="width:5.60417in;height:2.97917in" /><img src="./eymrdu0i.png"
+<img src="dlproject_images.md/hne25egi.png"
+style="width:2.90625in;height:0.625in" /><img src="dlproject_images.md/mx2gxap2.png"
+style="width:0.39583in;height:0.23958in" /><img src="dlproject_images.md/ot4sojhw.png"
+style="width:0.57292in;height:0.23958in" /><img src="dlproject_images.md/ghnwsob1.png"
+style="width:5.60417in;height:2.97917in" /><img src="dlproject_images.md/eymrdu0i.png"
 style="width:4.76042in;height:4.29167in" />
 
 **<u>INTERFACE:</u>**
@@ -517,32 +517,32 @@ style="width:4.76042in;height:4.29167in" />
 >
 > <u>Figure 2</u>
 
-<img src="./giwjswee.png"
-style="width:2.90625in;height:0.625in" /><img src="./ur1tj4cf.png"
-style="width:4.15625in;height:4.80208in" /><img src="./0rznsoaj.png"
-style="width:0.39583in;height:0.23958in" /><img src="./qkfjwzre.png"
-style="width:0.57292in;height:0.23958in" /><img src="./3yxd0yy3.png"
+<img src="dlproject_images.md/giwjswee.png"
+style="width:2.90625in;height:0.625in" /><img src="dlproject_images.md/ur1tj4cf.png"
+style="width:4.15625in;height:4.80208in" /><img src="dlproject_images.md/0rznsoaj.png"
+style="width:0.39583in;height:0.23958in" /><img src="dlproject_images.md/qkfjwzre.png"
+style="width:0.57292in;height:0.23958in" /><img src="dlproject_images.md/3yxd0yy3.png"
 style="width:7.10417in;height:3.98958in" />
 
 > <u>Figure 3</u>
 >
 > <u>Figure 4</u>
 
-<img src="./3gb4vjl5.png"
-style="width:2.90625in;height:0.625in" /><img src="./kpxjain4.png"
-style="width:4.6875in;height:4.84375in" /><img src="./0yh1a3kf.png"
-style="width:0.39583in;height:0.23958in" /><img src="./fh3zchyf.png"
-style="width:0.57292in;height:0.23958in" /><img src="./z2hmt1km.png"
+<img src="dlproject_images.md/3gb4vjl5.png"
+style="width:2.90625in;height:0.625in" /><img src="dlproject_images.md/kpxjain4.png"
+style="width:4.6875in;height:4.84375in" /><img src="dlproject_images.md/0yh1a3kf.png"
+style="width:0.39583in;height:0.23958in" /><img src="dlproject_images.md/fh3zchyf.png"
+style="width:0.57292in;height:0.23958in" /><img src="dlproject_images.md/z2hmt1km.png"
 style="width:5.77083in;height:3.35417in" />
 
 > <u>Figure 5</u>
 >
 > <u>Figure 6</u>
 
-<img src="./fuhavbg2.png"
-style="width:2.90625in;height:0.625in" /><img src="./xrsk0a2q.png"
-style="width:0.39583in;height:0.23958in" /><img src="./hx0bsomj.png"
-style="width:0.57292in;height:0.23958in" /><img src="./c5ka5gkh.png"
+<img src="dlproject_images.md/fuhavbg2.png"
+style="width:2.90625in;height:0.625in" /><img src="dlproject_images.md/xrsk0a2q.png"
+style="width:0.39583in;height:0.23958in" /><img src="dlproject_images.md/hx0bsomj.png"
+style="width:0.57292in;height:0.23958in" /><img src="dlproject_images.md/c5ka5gkh.png"
 style="width:4.80208in;height:2.57292in" />
 
 > **<u>REAL WORLD SCENARIO (Bonus):</u>**
@@ -577,9 +577,9 @@ style="width:4.80208in;height:2.57292in" />
 > Streamlit and worked on the AlexNet model. Also contributed to the
 > ResNet architecture and partially worked on the DenseNet model.
 
-<img src="./s1gc5aqp.png"
-style="width:2.90625in;height:0.625in" /><img src="./ibvjpvyv.png"
-style="width:0.39583in;height:0.23958in" /><img src="./bsuasamd.png"
+<img src="dlproject_images.md/s1gc5aqp.png"
+style="width:2.90625in;height:0.625in" /><img src="dlproject_images.md/ibvjpvyv.png"
+style="width:0.39583in;height:0.23958in" /><img src="dlproject_images.md/bsuasamd.png"
 style="width:0.57292in;height:0.23958in" />
 
 > **Prajakta** **Jhade** concentrated on the DenseNet architecture and
